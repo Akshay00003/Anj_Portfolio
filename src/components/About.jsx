@@ -8,11 +8,11 @@ const About = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
         </div>
         <p className="text-xl mt-20">
-        I'm a dedicated PYTHON FULL STACK developer with a unique journey into the world of programming. I've always had a passion for solving complex problems and building things from scratch. This drive led me to pursue a career in web development, and I haven't looked back since.
+        An Electronics Engineer is responsible for designing, developing, and testing electronic components, circuits, and systems for a variety of applications. I'have use a variety of tools and skills such as circuit design, micro-processing, and computer programming, also responsible for troubleshooting and repairing electronic systems.As an Electronics Engineers often work on projects that involve developing new products or improving existing products.
         </p>
         <br />
         <p className="text-xl">
-        I specialize in developing full-stack web applications using PYTHON DJANGO. My journey has been a continuous learning process, and I'm excited to share my experiences and insights with the programming community.
+        I specialize in developing and design of PA system, CCTV system, ALARM system. My journey has been a continuous learning process, and I'm excited to share my experiences and insights with the developing community.
         </p>
       </div>
     </div>

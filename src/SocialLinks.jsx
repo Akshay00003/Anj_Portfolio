@@ -13,7 +13,7 @@ const SocialLinks = () => {
           <FaLinkedin size={30} />
         </>
       ),
-      href: 'https://www.linkedin.com/in/akshay-prakash-906013293/',
+      href: 'https://www.instagram.com/an__janasaji/',
       style: "rounded-tr-md",
     },
     {
@@ -24,7 +24,7 @@ const SocialLinks = () => {
           <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/Akshay00003",
+      href: "https://www.instagram.com/an__janasaji/",
     },
     {
       id: 3,
@@ -44,9 +44,8 @@ const SocialLinks = () => {
           <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/reume_np.pdf",
+      href: "https://www.instagram.com/an__janasaji/",
       style: "rounded-br-md",
-      download: true,
     },
   ];
   return (

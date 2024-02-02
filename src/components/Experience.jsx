@@ -1,56 +1,37 @@
 import React from "react";
-import html from "../assets/html.png";
-import css from "../assets/css.png";
-import javascript from "../assets/javascript.png";
-import reactImage from "../assets/react.png";
-import github from "../assets/github.png";
-import python from "../assets/python.png";
-import django from "../assets/django.png";
+
+import alarm from '../assets/alarm.png'
+import cctv from '../assets/cctv1.png'
+import embedded from '../assets/embeded.png'
+import iot from '../assets/iot.png'
 
 const Experience = () => {
   const techs = [
     {
       id: 1,
-      src: html,
-      title: "HTML",
+      src: embedded,
+      title: "EMBEDDED SYSTEM",
       style: "shadow-orange-500",
     },
     {
       id: 2,
-      src: css,
-      title: "CSS",
+      src: iot,
+      title: "IOT",
       style: "shadow-blue-500",
     },
     {
       id: 3,
-      src: javascript,
-      title: "JavaScript",
+      src: alarm,
+      title: "SECURITY SYSTEM",
       style: "shadow-yellow-500",
     },
     {
       id: 4,
-      src: reactImage,
-      title: "React",
+      src: cctv,
+      title: "CCTV",
       style: "shadow-blue-600",
     },
-    {
-      id: 5,
-      src: python,
-      title: "Python",
-      style: "shadow-sky-400",
-    },
-    {
-      id: 6,
-      src: django,
-      title: "Django",
-      style: "shadow-white",
-    },
-    {
-      id: 7,
-      src: github,
-      title: "GitHub",
-      style: "shadow-gray-400",
-    },
+   
   ];
   return (
     <div
